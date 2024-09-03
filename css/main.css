@@ -4,10 +4,10 @@
 body {
   font-size: 14px;
 }
-.v2_2 {
+.v18_552 {
   width: 100%;
-  height: 832px;
-  background: url("../images/v2_2.png");
+  height: 1054px;
+  background: url("../images/v18_552.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -19,7 +19,7 @@ body {
 }
 .v1_2 {
   width: 100%;
-  height: 832px;
+  height: 100%;
   background: linear-gradient(rgba(179,179,179,1), rgba(154,154,154,1));
   opacity: 1;
   position: relative;
@@ -27,21 +27,22 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_10 {
-  width: 486px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 228px;
-  left: 125px;
-  font-family: Inter;
-  font-weight: Regular;
-  font-size: 15px;
+.v18_546 {
+  width: 100%;
+  height: 144px;
+  background: url("../images/v18_546.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
-  text-align: left;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
 }
 .v1_3 {
   width: 100%;
-  height: 90px;
+  height: 144px;
   background: rgba(38,34,34,1);
   opacity: 1;
   position: relative;
@@ -50,11 +51,11 @@ body {
   overflow: hidden;
 }
 .v1_4 {
-  width: 465px;
+  width: 487px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 8px;
-  left: 407px;
+  top: 10px;
+  left: 494px;
   font-family: Playfair Display;
   font-weight: Regular;
   font-size: 36px;
@@ -62,97 +63,148 @@ body {
   text-align: left;
 }
 .v1_5 {
-  width: 113px;
+  width: 181px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 56px;
-  left: 567px;
+  top: 86px;
+  left: 348px;
   font-family: Playfair Display;
   font-weight: Regular;
   font-size: 20px;
   opacity: 1;
   text-align: left;
 }
-.v1_8 {
-  width: 318px;
-  height: 452px;
-  background: url("../images/v1_8.png");
+.v18_549 {
+  width: 511px;
+  height: 727px;
+  background: url("../images/v18_549.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 172px;
-  left: 290px;
+  top: 214px;
+  left: 65px;
+  overflow: hidden;
+}
+.v1_8 {
+  width: 511px;
+  height: 727px;
+  background: url("../images/v1_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
   border: 5px solid rgba(0,0,0,1);
   overflow: hidden;
 }
 .v1_9 {
-  width: 280px;
+  width: 450px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 133px;
-  left: 85px;
+  top: 214px;
+  left: 136px;
   font-family: Playfair Display;
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
   text-align: left;
 }
-.v1_16 {
-  width: 25px;
-  height: 25px;
-  background: url("../images/v1_16.png");
+.v18_551 {
+  width: 835px;
+  height: 64px;
+  background: url("../images/v18_551.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 222px;
-  left: 92px;
+  top: 357px;
+  left: 148px;
   overflow: hidden;
 }
-.v1_18 {
-  width: 25px;
-  height: 25px;
-  background: url("../images/v1_18.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 258px;
-  left: 92px;
-  overflow: hidden;
-}
-.v1_19 {
-  width: 209px;
+.v1_10 {
+  width: 782px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 261px;
-  left: 125px;
+  top: 9px;
+  left: 53px;
   font-family: Inter;
   font-weight: Regular;
   font-size: 15px;
   opacity: 1;
   text-align: left;
 }
-.v2_3 {
-  width: 488px;
-  height: 113px;
-  background: url("../images/v2_3.png");
+.v1_16 {
+  width: 40px;
+  height: 40px;
+  background: url("../images/v1_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v18_550 {
+  width: 389px;
+  height: 40px;
+  background: url("../images/v18_550.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 511px;
-  left: 92px;
+  top: 415px;
+  left: 148px;
+  overflow: hidden;
+}
+.v1_18 {
+  width: 40px;
+  height: 40px;
+  background: url("../images/v1_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_19 {
+  width: 336px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 4px;
+  left: 54px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v18_548 {
+  width: 785px;
+  height: 181px;
+  background: url("../images/v18_548.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 759px;
+  left: 148px;
   overflow: hidden;
 }
 .v1_20 {
-  width: 488px;
-  height: 113px;
+  width: 785px;
+  height: 181px;
   background: rgba(38,34,34,1);
   opacity: 1;
   position: absolute;
@@ -165,11 +217,11 @@ body {
   overflow: hidden;
 }
 .v1_23 {
-  width: 84px;
+  width: 135px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 16px;
-  left: 202px;
+  top: 25px;
+  left: 326px;
   font-family: Playfair Display;
   font-weight: Bold;
   font-size: 15px;
@@ -177,24 +229,24 @@ body {
   text-align: left;
 }
 .v1_22 {
-  width: 53px;
-  height: 53px;
+  width: 85px;
+  height: 85px;
   background: url("../images/v1_22.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 30px;
-  left: 25px;
+  top: 48px;
+  left: 41px;
   overflow: hidden;
 }
 .v1_24 {
-  width: 275px;
+  width: 442px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 48px;
-  left: 107px;
+  top: 77px;
+  left: 173px;
   font-size: 15px;
   opacity: 1;
   text-align: center;
